@@ -1,6 +1,6 @@
 <h2 align=center></h2> 
 
-# Soluções de exercícios em Java
+# Soluções de exercícios em ![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFF00)&nbsp;
 
 ### Bem-vindo ao repositório Java Exercise Solutions! 🎉
 
